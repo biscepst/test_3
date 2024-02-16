@@ -14,11 +14,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/1.png" alt="image" width="300">
+<img src="img_desktop/1.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:**
 
-<img src="img_phone/1.png" alt="image" width="300">
+<img src="img_phone/1.png" alt="image" width="400">
 
 ## 2) Описание второго бага
 **Заголовок:** Список блюд. При нажатии в начало на 1 странице выдает "Bad request"
@@ -32,11 +32,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/2.png" alt="image" width="300">
+<img src="img_desktop/2.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:**
 
-<img src="img_phone/2.png" alt="image" width="300">
+<img src="img_phone/2.png" alt="image" width="400">
 
 ## 3) Описание третьего бага
 **Заголовок:** Список блюд. При нажатии в конец на 5 странице выдает "Bad request"
@@ -52,11 +52,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/3.png" alt="image" width="300">
+<img src="img_desktop/3.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/3.png" alt="image" width="300">
+<img src="img_phone/3.png" alt="image" width="400">
 
 ## 4) Описание четвертого бага
 
@@ -71,21 +71,21 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/4.png" alt="image" width="300"> <img src="img_desktop/4.png" alt="image" width="300">
+<img src="img_desktop/4.png" alt="image" width="400"> <img src="img_desktop/4.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/4.jpg" alt="image" width="300"> <img src="img_phone/5.jpg" alt="image" width="300">
+<img src="img_phone/4.jpg" alt="image" width="400"> <img src="img_phone/5.jpg" alt="image" width="400">
 
 **Ожидаемый результат:** Расположение стрелок и цифр на каждой странице унифицировано
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/6.png" alt="image" width="300">
+<img src="img_desktop/6.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:**
 
-<img src="img_phone/6.jpg" alt="image" width="300">
+<img src="img_phone/6.jpg" alt="image" width="400">
 
 ## 5) Описание пятого бага
 
@@ -102,11 +102,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/7.png" alt="image" width="300">
+<img src="img_desktop/7.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:*
 
-* <img src="img_phone/7.png" alt="image" width="300">
+* <img src="img_phone/7.png" alt="image" width="400">
 
 ## 6) Описание Шестого бага
 
@@ -122,11 +122,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/8.png" alt="image" width="300">
+<img src="img_desktop/8.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/8.jpg" alt="image" width="300">
+<img src="img_phone/8.jpg" alt="image" width="400">
 
 ## 7) Описание седьмого бага
 
@@ -141,11 +141,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/9.png" alt="image" width="300">
+<img src="img_desktop/9.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:**
 
-<img src="img_phone/9.png" alt="image" width="300">
+<img src="img_phone/9.png" alt="image" width="400">
 
 **Ожидаемый результат:** Бот выдает описание салата Мимоза
 ## 8) Описание восьмого бага
@@ -161,11 +161,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/10.png" alt="image" width="300">
+<img src="img_desktop/10.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:**
 
-<img src="img_phone/10.png" alt="image" width="300">
+<img src="img_phone/10.png" alt="image" width="400">
 
 **Ожидаемый результат:** Бот выдает описание супа Солянка
 ## 9) Описание Девятого бага
@@ -185,11 +185,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/11.png" alt="image" width="300">
+<img src="img_desktop/11.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:**
 
-<img src="img_phone/11.png" alt="image" width="300">
+<img src="img_phone/11.png" alt="image" width="400">
 
 **Ожидаемый результат:** Бот выдает кнопки инлайн кнопки для каждого занятого стола
 
@@ -211,11 +211,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/12.png" alt="image" width="300">
+<img src="img_desktop/12.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/12.jpg" alt="image" width="300">
+<img src="img_phone/12.jpg" alt="image" width="400">
 
 ## 11) Описание одиннадцатого бага
 
@@ -234,11 +234,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/13.png" alt="image" width="300">
+<img src="img_desktop/13.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/13.png" alt="image" width="300">
+<img src="img_phone/13.png" alt="image" width="400">
 
 ## 12) Описание двенадцатого бага
 **Заголовок:** Удаление позиции. Отсутствуют возможность удалить всю позицию целиком
@@ -258,11 +258,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/14.png" alt="image" width="300">
+<img src="img_desktop/14.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/14.png" alt="image" width="300">
+<img src="img_phone/14.png" alt="image" width="400">
 
 ## 13) Описание Тринадцатого бага
 
@@ -280,11 +280,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/15.png" alt="image" width="300">
+<img src="img_desktop/15.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:**
 
-<img src="img_phone/15.png" alt="image" width="300">
+<img src="img_phone/15.png" alt="image" width="400">
 
 ## 14) Описание четырнадцатого бага 
 
@@ -300,11 +300,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/16.png" alt="image" width="300">
+<img src="img_desktop/16.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/16.png" alt="image" width="300">
+<img src="img_phone/16.png" alt="image" width="400">
 
 ## 15) Описание пятнадцатого бага
 
@@ -323,11 +323,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/17.png" alt="image" width="300">
+<img src="img_desktop/17.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/17.png" alt="image" width="300">
+<img src="img_phone/17.png" alt="image" width="400">
 
 ### 15) *Не баг, а скорее неудобство для пользователя, после отправки фото бот не предлагает действий, приходится дополнительно нажать кнопку меню и выбрать команду
 
@@ -345,11 +345,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/18.png" alt="image" width="300">
+<img src="img_desktop/18.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/18.png" alt="image" width="300">
+<img src="img_phone/18.png" alt="image" width="400">
 
 ## 17) Описание Семнадцатого бага
 
@@ -368,11 +368,11 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/19.png" alt="image" width="300">
+<img src="img_desktop/19.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/19.png" alt="image" width="300">
+<img src="img_phone/19.png" alt="image" width="400">
 
 ## 18) Описание Восемнадцатого бага
 
@@ -388,9 +388,8 @@
 
 **Окружение:** Telegram Desktop 4.14.13 x64 **Скриншот:** 
 
-<img src="img_desktop/20.png" alt="image" width="300">
+<img src="img_desktop/20.png" alt="image" width="400">
 
 **Окружение:** Telegram iOS 17.1.1 iPhone 13  **Скриншот:** 
 
-<img src="img_phone/20.jpg" alt="image" width="300">
-
+<img src="img_phone/20.jpg" alt="image" width="400">
